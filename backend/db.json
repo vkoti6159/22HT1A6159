@@ -1,0 +1,38 @@
+{
+  "urls": [
+    {
+      "shortcode": "W52Ro9",
+      "original_url": "https://example.com/my-long-page",
+      "created_at": "2025-09-06T08:53:01.171Z",
+      "expiry": "2025-09-06T09:03:01.171Z"
+    },
+    {
+      "shortcode": "ObNygH",
+      "original_url": "https://www.google.com",
+      "created_at": "2025-09-06T08:54:34.499Z",
+      "expiry": "2025-09-06T09:24:34.499Z"
+    },
+    {
+      "shortcode": "E8IhEI",
+      "original_url": "https://www.google.com",
+      "created_at": "2025-09-06T09:12:25.480Z",
+      "expiry": "2025-09-06T09:42:25.480Z"
+    }
+  ],
+  "clicks": [
+    {
+      "shortcode": "ObNygH",
+      "ts": "2025-09-06T08:56:16.362Z",
+      "referrer": null,
+      "ip": "::1",
+      "location": "unknown"
+    },
+    {
+      "shortcode": "E8IhEI",
+      "ts": "2025-09-06T09:12:35.255Z",
+      "referrer": null,
+      "ip": "::1",
+      "location": "unknown"
+    }
+  ]
+}
